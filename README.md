@@ -1,4 +1,4 @@
-# flutter-maximilian-projects-
+# flutter-maximilian-projects
 
 
 This projects is a starting point for a Flutter application.
